@@ -1,0 +1,25 @@
+#terminal {
+    background-color: black;
+    color: white;
+    font-family: monospace;
+    padding: 10px;
+    overflow: hidden;
+}
+
+#prompt {
+    display: inline-block;
+    vertical-align: auto;
+}
+
+#gamelink{
+    color:chartreuse
+}
+
+#commandInput {
+    background-color: transparent;
+    border: none;
+    color: white;
+    outline: none;
+    font-family: monospace;
+    caret-color: rgba(255, 255, 255, 0.5); /* Set the color and opacity of the cursor */
+}
